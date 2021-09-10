@@ -16,7 +16,7 @@ hr{
 padding: 0rem 1rem;
 }
 .container-center{
-  max-width: 700px;
+  max-width: 750px;
   margin: auto;
   text-align: center;
 }
@@ -101,6 +101,8 @@ text-align: center;
 .section{
    text-align: center;
    padding: 2rem;
+   margin-left: 0.1rem;
+   margin-right: 0.1rem;
 }
 .off-white{
   background-color: var(--off-white);
